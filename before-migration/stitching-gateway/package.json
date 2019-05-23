@@ -1,0 +1,33 @@
+{
+  "name": "apollo-demo",
+  "version": "0.0.1",
+  "description": "Simple example covering the very basics of Graphql, and Apollo",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "apollo-link-context": "^1.0.8",
+    "apollo-link-http": "^1.5.4",
+    "apollo-server": "latest",
+    "graphql": "latest",
+    "graphql-tools": "latest",
+    "node-fetch": "^2.2.0",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {
+    "apollo": "latest"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "apollo",
+    "glitch",
+    "graphql"
+  ]
+}
