@@ -2,7 +2,7 @@
   "name": "federation-gateway",
   "description": "",
   "dependencies": {
-    "@apollo/gateway": "^0.1.5",
+    "@apollo/gateway": "latest",
     "apollo-server": "latest",
     "graphql": "latest"
   },
