@@ -15,7 +15,7 @@
     "apollo-server": "latest",
     "graphql": "^0.13.2",
     "graphql-tools": "latest",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "nodemon": "^1.19.0"
   },
   "devDependencies": {
