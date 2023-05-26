@@ -1,3 +1,8 @@
+# Archival
+This repo was archived by the Apollo Security team on 2023-05-26
+
+Please reach out with questions at security@apollographql.com. 
+
 # Federation Migration Example 🚀
 
 This project accompanies the [schema stitching to federation migration guide]()
